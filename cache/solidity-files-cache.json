@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/workspace/fakee/fakee/contracts/NFT.sol": {
-      "lastModificationDate": 1721943241505,
-      "contentHash": "456874a16c0b4f50abd3a878b5aebe72",
+      "lastModificationDate": 1721943691768,
+      "contentHash": "5e77e9cd8511c25357fb2bc082efaa88",
       "sourceName": "contracts/NFT.sol",
       "solcConfig": {
         "version": "0.8.20",
